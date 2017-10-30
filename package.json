@@ -1,0 +1,18 @@
+{
+  "name": "headless-halloween-theme",
+  "displayName": "Headless Halloween",
+  "description": "Headless Hector themed skin for Aseprite",
+  "version": "1.0",
+  "author": { "name": "Goomboo" , "url": "https://twitter.com/MapleGecko" },
+  "contributors": [],
+  "publisher": "None",
+  "license": "None",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Headless Halloween", "path": "." }
+    ]
+  }
+}
