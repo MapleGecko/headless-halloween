@@ -3,8 +3,8 @@
 Headless Halloween theme for **Aseprite 1.2.9**
 
 ## Screenshots
-![alt text](https://img4.hostingpics.net/pics/626833Skin1.png)
-![alt text](https://img4.hostingpics.net/pics/200138Skin2.png)
+![alt text](https://i.ibb.co/cL026C3/screen1.png)
+![alt text](https://i.ibb.co/zm6tmbz/screen2.png)
 
 ## Installation
 
