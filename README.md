@@ -1,6 +1,6 @@
 # Aseprite [Headless Halloween] Theme
 
-Headless Halloween theme for **Aseprite 1.2.9**
+Headless Halloween theme for **Aseprite 1.2.13**
 
 ## Screenshots
 ![alt text](https://i.ibb.co/cL026C3/screen1.png)
